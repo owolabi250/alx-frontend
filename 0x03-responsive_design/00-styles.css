@@ -623,7 +623,7 @@
   }
   
   .post-meta-list strong {
-[O    color: var(--color-primary);
+    color: var(--color-primary);
     font-size: 1.3rem;
     font-weight: var(--font-weight-bold);
     text-transform: uppercase;
@@ -859,4 +859,3 @@
     cursor: text;
     margin: 0 1rem;
   }
-
